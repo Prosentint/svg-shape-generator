@@ -1,8 +1,0 @@
-
-    <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-      <rect x="75" y="40" width="120" height="120" fill="green" />
-      <text x="100" y="120" font-size="30" fill="black">
-        DON
-      </text>
-    </svg>
-  

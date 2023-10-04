@@ -64,7 +64,7 @@ const generateSVG = (data) => {
   `;
 
   // Write the SVG content to a file named 'logo.svg'
-  fs.writeFileSync('logo.svg', svgContent);
+  fs.writeFileSync('generated/logo.svg', svgContent);
 };
 
 // the start of the program
