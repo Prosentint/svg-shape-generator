@@ -2,7 +2,7 @@
 
   ## Description
 
-  A Node.js command-line application that takes in user input and uses those input to generate the svg code of a 300 x 200 pixel image based on the User input
+  A Node.js command-line application that takes in user input and uses those input to generate the svg code of a 300 x 200 pixel image based on the User input.
 
   ## Table of Contents
 
@@ -38,7 +38,7 @@
 
   6. The SVG file will be generated in the `generated` directory.
 
-  [Video Guide]()
+  [Video Guide](https://drive.google.com/file/d/1pS6i6aLBHZMB3IbU21iOxM2aYiSQr4m3/view?usp=sharing)
 
   ## Tests
 
